@@ -30,7 +30,7 @@ const char* morseCode[] = {
 "--.." // Z
 };
 
-const char* morseCodeForNikhil[] = { "N", "I", "K", "H", "I", "L" };  // This constant array stores the Morse code for the name "Nikhil".
+const char* morseCodeForNikhil[] = { "N", "I", "K", "H", "I", "L" };  // This constant array stores the alphabets for the name "Nikhil".
 
 void setup() {
   pinMode(ledPin, OUTPUT);    // This function sets the LED pin as an output.
